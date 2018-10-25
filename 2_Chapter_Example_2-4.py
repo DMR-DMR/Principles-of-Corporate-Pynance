@@ -18,8 +18,7 @@ pmt = pv/af
 
 print(pmt)
 
-
----
+# ---
 
 #  Example 2.4
 # Table 2.1
